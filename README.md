@@ -42,7 +42,7 @@ bot(
                body: " 𝐁𝐋𝐎𝐎𝐃 𝐎𝐅 𝐀𝐑𝐀𝐊𝐊𝐋 𝐓𝐇𝐀𝐑𝐀𝐕𝐀𝐃𝐔  ",
                mediaType: 2, //3 for video
                thumbnail: buff2.buffer,
-               sourceUrl:"http://wa.me/919496429747?text=_*✦҈͜͡➳ꪶ_𝐀𝐓𝐅𝐀✰𝐀𝐀𝐑𝐀𝐂𝐇𝐀𝐀𝐑ꫂ➛*_",
+               sourceUrl:"http://wa.me/919544951258?text=_*✦҈͜͡➳ꪶ_𝐀𝐓𝐅𝐀✰𝐀𝐀𝐑𝐀𝐂𝐇𝐀𝐀𝐑ꫂ➛*_",
                 }
          // ADDED */ TO REMOVE LINK PREVIEW TYPE
         options.quoted = {
